@@ -28,7 +28,7 @@ const data = [
     startDate: "3 Jun, 2022",
     endDate: "5 Jun, 2022",
     description:
-      "Cordoba is a tourist city par excellence, its wide history and the large number of monuments of great importance so testify. The city is more than known for its Mosque-Cathedral and its historic center, but it is less known for numerous sites of interest that you can visit and visit if you stay a few days. Any time is good to visit Cordoba. The climate is pleasant at any time of the year. It's not too cold in Winter and most days it's sunny. Cordoba is a city that has a reputation for being hot in summer, even so tourists do not stop visiting us.",
+      "Cordoba is a tourist city par excellence, its wide history and the large number of monuments of great importance so testify. The city is more than known for its Mosque-Cathedral and its historic center, but it is less known for numerous sites of interest that you can visit and visit if you stay a few days. Any time is good to visit Cordoba. The climate is pleasant at any time of the year. It's not too cold in Winter and most days it's sunny. Cordoba is a city that has a reputation for being hot in summer, even so tourists do not stop visiting.",
     imageUrl: "https://source.unsplash.com/fJhJF4TcqQo",
   },
 
