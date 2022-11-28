@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React Topics Covered
+
+- Create a basic Functional Component. No props, no state and no conditional rendering.
+
 ## Available Scripts
 
 In the project directory, you can run:
